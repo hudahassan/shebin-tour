@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name">Shebin Tour</string>
+
+    <!--Tab Layout-->
+    <string name="attraction">Attractions</string>
+    <string name="shop">Shop</string>
+    <string name="hotel">Hotel</string>
+    <string name="eat">Eat</string>
+    <string name="what">Description</string>
+    <string name="when">When?</string>
+    <string name="where">Where?</string>
+    <string name="maps">Open in maps</string>
+    <string name="Call">Call</string>
+    <string name="description">Description</string>
+    <string name="hotel_details">Hotel Details</string>
+    <string name="atrraction_details">Attraction Details</string>
+
+    <!--Attractions-->
+    <string-array name="attraction_name">
+        <item>Sadat Museum</item>
+        <item>Omar Effendi</item>
+        <item>University Stadium</item>
+        <item>Dots Mall</item>
+        <item>Denshway Museum</item>
+
+    </string-array>
+    <string-array name="attraction_description_short">
+        <item>Museum of the previous President Gamal Abdel Nasser</item>
+        <item>Shopping mall </item>
+        <item>stadium in shibin el_kom, Menofia</item>
+        <item>A project for decoration and light construction</item>
+        <item>is a museum in Al-Minufiyah</item>
+
+
+    </string-array>
+
+    <string-array name="attraction_description_long">
+        <item>
+          The Sadat Museum is a cultural museum in Alexandria, Egypt, dedicated to the legacy of Egyptian president Anwar Al Sadat. It was inaugurated on February 17, 2009 by Suzanne Mubarak and Jehan Al Sadat and is located next to the planetarium of the Bibliotheca Alexandrina, encompassing 200 square meters. The museum also launched an internet website that contains videos, images and documents about Sadat. The Museum holds the military uniform
+            Sadat was wearing when he was assassinated, his desk, radio and some of the swords he received from Arab countries.
+        </item>
+
+        <item>
+        Omar Effeni is a big place for Living and shopping  ,It's in Gamal abdel nasser ST SHEBEIN EL KAWM? EL MONOFEYA? Menofia Governorate
+        </item>
+
+        <item>
+    It is primarily used for football and hosts the home football games of the Menofia High School Spartans. The stadium is part of the James E.the Shebin elkom Memorial Baseball Stadium.
+        </item>
+
+        <item>
+    More than 20,000 decorative ideas ..
+    The largest mall in the Delta on an area of 2200 m 2 for the decor of the modern house ..
+    DOTS MALL .. all trims under one roof ..
+        </item>
+
+        <item>
+            In creating the museum, it was hoped to remind villagers of the history that helped to shape the region and also provide a cultural center which would increase tourism in the region
+        </item>
+
+
+    </string-array>
+
+    <!--Activities-->
+    <string-array name="hotels_name">
+        <item>Menoufia University Hotel</item>
+        <item>Eldorando Lodge</item>
+        <item>helal al menofia hotel</item>
+        <item>Sheraton Royal Garden</item>
+
+    </string-array>
+
+    <string-array name="hotels_description">
+        <item>
+            &#8226; Great service, friendly people, clean rooms.
+        </item>
+        <item>
+             &#8226; Great service, friendly people, clean rooms.\n
+             &#8226; include Restaurant has every type of food .
+             &#8226; All Kind of people.
+        </item>
+        <item>
+             &#8226; Great service, friendly people, clean rooms.\n
+             &#8226; All Kind of people.
+        </item>
+        <item>
+            &#8226; Great service, friendly people, clean rooms.\n
+            &#8226; All Kind of people.
+        </item>
+
+    </string-array>
+
+    <string-array name="hotels_when">
+        <item>All Days, From 05:30AM</item>
+        <item>All Days, any time</item>
+        <item>All Days, From 05:15AM</item>
+        <item>All Days, From 10:00AM</item>
+
+    </string-array>
+    <string-array name="hotels_phone">
+        <item>0482199063</item>
+        <item>0693641027</item>
+        <item>0482332914</item>
+        <item>027812211</item>
+    </string-array>
+
+    <string-array name="hotels_where">
+        <item>geo:30.5580179,31.0106076?q=Menoufia University Hotel</item>
+        <item>geo:30.511066,31.1537013?q=Eldorando Lodge</item>
+        <item>geo:30.5552898,31.0079279?q=helal al menofia hotel</item>
+        <item>geo:30.3888511,30.9646726?q=Sheraton Royal Garden</item>
+
+    </string-array>
+    <!--Shopping points-->
+    <string-array name="shop_name">
+        <item>Ravin Shop</item>
+        <item>Oxydo Shop</item>
+        <item>Syrian Market</item>
+        <item>Disny Shop</item>
+        <item>Shoes Store</item>
+        <item>Accessories</item>
+        <item>Casellia Shop</item>
+    </string-array>
+
+    <string-array name="shop_details">
+        <item>
+            <b>Location:</b> Gala Street, Next to Cafe Maspero.\n
+            <b>Opening Hours:</b> Daily from 12 a.m. to 11.30 p.m., including national holidays.\n
+            <b>What to Buy:</b> Latest Fashion For Women.
+        </item>
+        <item>
+            <b>Location:</b> Stadium Street , in Front of the Sadat Temple.\n
+            <b>Opening Hours:</b> Daily.\n
+            <b>What to Buy:</b> Fashion Clothes.
+        </item>
+        <item>
+            <b>Location:</b> Shibin El_Koum Stadium, in Front of the University.\n
+            <b>Opening Hours:</b> Daily .\n
+            <b>What to Buy:</b> Clothes, shoes, jewelry ,Mekeup.
+        </item>
+        <item>
+            &#8226; <b>Location:</b> Stadium Street, opposite the New Delhi Railway Station.\n
+            &#8226; <b>Opening Hours:</b> Daily from 10.30 a.m to 11 p.m.\n
+            &#8226; <b>What to Buy:</b> Baby Clothes.
+        </item>
+        <item>
+            <b>Location:</b> Gala Street, After Chalumeau Juice Shop.\n
+            <b>Opening Hours:</b> Daily from 11 a.m. to 12 p.m.\n
+            <b>What to Buy:</b> Shoes.
+        </item>
+        <item>
+            <b>Location:</b> Qism Shibin Al_Koum .\n
+            <b>Opening Hours:</b> Daily except Friday.\n
+            <b>What to Buy:</b> Beauty Supply Store.
+        </item>
+        <item>
+            <b>Location:</b> Stadium Street .\n
+            <b>Opening Hours:</b> Daily  including national holidays.\n
+            <b>What to Buy:</b> Clothing Store.
+        </item>
+
+
+    </string-array>
+
+    <!--Must eat-->
+    <string-array name="eat_name">
+        <item>Crepe</item>
+        <item>Pizza</item>
+        <item>Shawarma Food</item>
+        <item>Shrimp</item>
+        <item>Liver Sandwiches</item>
+        <item>7amam Ma7shi</item>
+        <item>Pasta</item>
+        <item>Ice Cream</item>
+        <item>Coffee</item>
+        <item>Coffee</item>
+
+    </string-array>
+
+    <string-array name="eat_where">
+        <item><b>Where:</b> Dandorma Restaurant ,Gala Street Next to El Maghfera Mosque</item>
+        <item><b>Where:</b> Trefl Restaurant, Atef alsadat Street</item>
+        <item><b>Where:</b> Damascus Restaurant, Gala Street</item>
+        <item><b>Where:</b> Altaibat Restaurant, in Front of the kasr al_ainy hospital</item>
+        <item><b>Where:</b> EL_Fala7, Talaat 7arb Street </item>
+        <item><b>Where:</b> Arabian restaurant, Atef alsadat Street</item>
+        <item><b>Where:</b> Adriano restaurant, Gamal Abdel Naser Street in front of the Republic Club</item>
+        <item><b>Where:</b> Hathout, Gala Street</item>
+        <item><b>Where:</b> Alarrab Coffee, Atef alsadat Street</item>
+        <item><b>Where:</b> Alarrab Coffee, Atef alsadat Street</item>
+
+    </string-array>
+</resources>

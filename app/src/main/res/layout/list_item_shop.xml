@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <data>
+        <variable
+            name="shop"
+            type="com.example.huza.tour_guide.data.ShopData"/>
+
+    </data>
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:id="@+id/text_shop"
+    android:text="@{shop.name}"
+    android:textColor="@color/colorAccent"
+    android:fontFamily="sans-serif-smallcaps"
+    android:gravity="center_vertical"
+    />
+
+</layout>
